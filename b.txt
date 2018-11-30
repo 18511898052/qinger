@@ -1,4 +1,5 @@
 ﻿release发布分支bug解决
+补丁解决了master的小问题
 feature分支来一发
 develop也来一次
 ﻿sourcetree 测试
