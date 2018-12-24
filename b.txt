@@ -1,14 +1,10 @@
 ﻿delelop
-﻿merge测试
 rebase 开始啦
-﻿master来啦
 测试rebase和merge的区别
-﻿rebase看看原理哈
 release发布分支bug解决
 补丁解决了master的小问题
 feature分支来一发
 develop也来一次
-﻿sourcetree 测试
 真的假的
 safasfhook test
 还是短发撒谎
